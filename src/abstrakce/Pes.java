@@ -8,6 +8,6 @@ public class Pes extends Zvire{
 
     @Override
     public void vydejZvuk() {
-
+System.out.println("haf");
     }
 }

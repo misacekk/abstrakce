@@ -8,6 +8,6 @@ public class Had extends Zvire{
 
     @Override
     public void vydejZvuk() {
-
+        System.out.println("ssssssssssssssssssssssss");
     }
 }

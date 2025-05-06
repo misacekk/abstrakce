@@ -8,6 +8,6 @@ public class Zelva extends Zvire{
 
     @Override
     public void vydejZvuk() {
-
+        System.out.println("ratata");
     }
 }
